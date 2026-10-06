@@ -364,26 +364,38 @@
       "members": {
         "github_usernames": [
           "SamEthanMathew",
+          "Yutai007",
           "Yuxiang-Huang",
           "a-varigonda",
           "cahove",
+          "carolyne-chiang",
           "dishon949",
           "hanabenko",
           "henhen1235",
           "jahuang24",
+          "k3t6hup",
           "nicholascui225",
+          "ryanwong05",
+          "stingray8",
+          "veriivy",
           "ziwei-che"
         ],
         "andrew_ids": [
+          "audreyz2",
           "avarigon",
+          "carolyne",
           "chove",
           "hbenko",
           "hhxu",
           "jarretth",
+          "kasubash",
           "ncui2",
           "ndishon",
+          "renfeirw",
           "semathew",
+          "tingrayc",
           "yh4",
+          "yutailon",
           "ziweiche"
         ]
       },
@@ -513,6 +525,66 @@
       "create_oidc_clients": true,
       "website": "meet.scottylabs.org",
       "server": "api.meet.scottylabs.org"
+    },
+    "scotty-delivery": {
+      "name": "Scotty Delivery",
+      "description": "Scotty Delivery is a on-campus food delivery service, founded by students, operated by students, and serving students, faculty, and staff of our university",
+      "members": {
+        "github_usernames": [
+          "KeyaanMatrix",
+          "Yutai007",
+          "carolyne-chiang",
+          "didikana",
+          "dzhou08",
+          "ethanliu2026",
+          "k3t6hup",
+          "noe2971",
+          "riishp",
+          "ryanwong05",
+          "shainag03",
+          "stingray8",
+          "veriivy"
+        ],
+        "andrew_ids": [
+          "audreyz2",
+          "carolyne",
+          "darisan",
+          "dhzhou",
+          "ethanlil",
+          "kasubash",
+          "keyaans",
+          "nchandy",
+          "renfeirw",
+          "rpachava",
+          "shainag",
+          "tingrayc",
+          "yutailon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "Yutai007",
+          "carolyne-chiang",
+          "k3t6hup",
+          "ryanwong05",
+          "stingray8",
+          "veriivy"
+        ],
+        "andrew_ids": [
+          "audreyz2",
+          "carolyne",
+          "kasubash",
+          "renfeirw",
+          "tingrayc",
+          "yutailon"
+        ]
+      },
+      "repos": [
+        "Scotty-Delivery"
+      ],
+      "create_oidc_clients": true,
+      "website": "",
+      "server": ""
     },
     "scottystack": {
       "name": "ScottyStack",
