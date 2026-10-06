@@ -9,7 +9,14 @@ description = "Scotty Delivery is a on-campus food delivery service, founded by 
 
 [[membership]]
 timeframe = "2026-2027"
-leads = ["Yutai007", "ryanwong05", "veriivy", "k3t6hup", "ju1iaw", "stingray8", "carolyne-chiang"]
+leads = [
+    "Yutai007", 
+    "ryanwong05", 
+    "veriivy", 
+    "k3t6hup", 
+    #"ju1iaw",
+    "stingray8", 
+    "carolyne-chiang"]
 
 [[membership.members]]
 github-username = "Yutai007"
@@ -23,8 +30,8 @@ github-username = "dzhou08"
 [[membership.members]]
 github-username = "ethanliu2026"
 
-[[membership.members]]
-github-username = "duallyhazard"
+# [[membership.members]]
+# github-username = "duallyhazard"
 
 [[membership.members]]
 github-username = "veriivy"
@@ -32,14 +39,14 @@ github-username = "veriivy"
 [[membership.members]]
 github-username = "k3t6hup"
 
-[[membership.members]]
-github-username = "electricSoda"
+# [[membership.members]]
+# github-username = "electricSoda"
 
-[[membership.members]]
-github-username = "tfeng12753"
+# [[membership.members]]
+# github-username = "tfeng12753"
 
-[[membership.members]]
-github-username = "ju1iaw"
+# [[membership.members]]
+# github-username = "ju1iaw"
 
 [[membership.members]]
 github-username = "KeyaanMatrix"
@@ -62,17 +69,17 @@ github-username = "riishp"
 [[membership.members]]
 github-username = "carolyne-chiang"
 
-[[membership.members]]
-github-username = "vivianliyuwei"
+# [[membership.members]]
+# github-username = "vivianliyuwei"
 
-[[membership.members]]
-github-username = "kaylin-h"
+# [[membership.members]]
+# github-username = "kaylin-h"
 
-[[membership.members]]
-github-username = "mialin8"
+# [[membership.members]]
+# github-username = "mialin8"
 
-[[membership.members]]
-github-username = "lyw127"
+# [[membership.members]]
+# github-username = "lyw127"
 
-[[membership.members]]
-github-username = "bwang26"
+# [[membership.members]]
+# github-username = "bwang26"
