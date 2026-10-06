@@ -9,7 +9,14 @@ description = "Scotty Delivery is a on-campus food delivery service, founded by 
 
 [[membership]]
 timeframe = "2026-2027"
-leads = ["Yutai007", "ryanwong05", "veriivy", "k3t6hup", "stingray8", "carolyne-chiang"]
+leads = [
+  "Yutai007",
+  "ryanwong05",
+  "veriivy",
+  "k3t6hup",
+  "stingray8",
+  "carolyne-chiang",
+]
 
 [[membership.members]]
 github-username = "Yutai007"
