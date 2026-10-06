@@ -14,6 +14,7 @@ leads = [
   "ryanwong05",
   "veriivy",
   "k3t6hup",
+  # "ju1iaw",
   "stingray8",
   "carolyne-chiang",
 ]
@@ -56,3 +57,27 @@ github-username = "riishp"
 
 [[membership.members]]
 github-username = "carolyne-chiang"
+
+# [[membership.members]]
+# github-username = "electricSoda"
+
+# [[membership.members]]
+# github-username = "tfeng12753"
+
+# [[membership.members]]
+# github-username = "ju1iaw"
+
+# [[membership.members]]
+# github-username = "vivianliyuwei"
+
+# [[membership.members]]
+# github-username = "kaylin-h"
+
+# [[membership.members]]
+# github-username = "mialin8"
+
+# [[membership.members]]
+# github-username = "lyw127"
+
+# [[membership.members]]
+# github-username = "bwang26"
