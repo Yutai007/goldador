@@ -12,18 +12,82 @@
       "laasyaaki"
     ],
     "non_admins": [
+      "AA2026",
+      "Aaron123456789123456789",
+      "EnspikondPlusPlus",
+      "EthanZ2007",
+      "HarishSenthilkumar",
+      "JiayiH08",
+      "KevinL135",
+      "KeyaanMatrix",
+      "NainaEnock",
+      "Yutai007",
+      "a-gupta123",
       "a-varigonda",
+      "aanya21gupta",
+      "aapin1",
+      "amishigupta",
+      "angely32",
+      "appleorange",
+      "arhavthakkar",
+      "arjunmaganti",
+      "arren51",
       "ashah48",
+      "ay93546",
       "bmood25",
+      "brady-q",
+      "cahove",
+      "carolyne-chiang",
+      "charansr",
       "cheezypegasus",
       "csongfm",
+      "davidx2-gif",
+      "didikana",
+      "dishon949",
+      "dzhou08",
+      "eitankrajewski",
+      "ethanliu2026",
+      "faribahnuha",
       "graceguo16",
+      "henhen1235",
+      "hnaracodes",
+      "ipyoon",
+      "jahuang24",
+      "janek0420",
+      "justinwu80",
+      "k3t6hup",
+      "kevin20074321",
+      "khushij312",
+      "klz037",
+      "kzz9984",
+      "lordkarv",
+      "maxwellliu07",
+      "nicholascui225",
+      "nihal-j",
       "noe2971",
+      "nosleep32",
+      "pnimmaga-jpg",
       "rarangil",
       "rayank7674",
+      "riishp",
+      "rocketrules",
+      "rohansp007",
+      "ryanwong05",
+      "s520y",
+      "sagelu1",
+      "sahilmmehta",
+      "samad2084",
+      "sdavidi-ai",
+      "shainag03",
       "sophiez3",
+      "sophiezxh",
+      "stingray8",
+      "szzxt",
       "tejaschaudhari131",
-      "veriivy"
+      "the-srianeesh",
+      "veriivy",
+      "victoriasun2007",
+      "ziwei-che"
     ]
   },
   "andrew_ids": {
@@ -40,17 +104,81 @@
     ],
     "non_admins": [
       "aahans",
+      "aanyag2",
+      "aaronch2",
+      "aayana",
+      "abthakka",
+      "amaganti",
+      "amishig",
+      "angely",
+      "appinto",
+      "aravagar",
+      "aryangup",
+      "audreyya",
       "audreyz2",
       "avarigon",
+      "avijendr",
       "bmood",
+      "bquo",
+      "carolyne",
       "cesong",
       "charlie3",
+      "chove",
+      "csridhar",
+      "darisan",
+      "davidx2",
+      "dhzhou",
+      "ekrajews",
+      "ethanlil",
+      "ethanzhe",
+      "fmn",
+      "hhxu",
+      "hnara",
+      "hsenthil",
+      "ipae",
+      "ivanz",
+      "janekim",
+      "jarretth",
+      "jiayihu",
+      "jzwu",
+      "kasubash",
+      "kelseyli",
+      "kevinlu3",
+      "keyaans",
+      "khushij",
+      "ktan2",
+      "kvattem",
+      "kzzhao",
+      "liweix",
+      "myliu2",
+      "nainae",
       "nchandy",
+      "ncui2",
+      "ndishon",
+      "nihaljos",
+      "pnimmaga",
       "rarangil",
+      "renfeirw",
       "rkha",
+      "rpachava",
+      "rparthip",
+      "sabellah",
+      "sagelu",
+      "sahilm",
+      "samad",
+      "sdavidi",
+      "seany2",
+      "shainag",
       "sophiez3",
+      "srianeek",
+      "susanzuo",
+      "szhang4",
       "tchaudha",
-      "yumengg2"
+      "tingrayc",
+      "vmsun",
+      "yumengg2",
+      "yutailon",
+      "ziweiche"
     ]
   },
   "teams": {
@@ -59,10 +187,22 @@
       "description": "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.\n",
       "members": {
         "github_usernames": [
-          "a-varigonda"
+          "a-varigonda",
+          "ay93546",
+          "brady-q",
+          "pnimmaga-jpg",
+          "rocketrules",
+          "rohansp007",
+          "the-srianeesh"
         ],
         "andrew_ids": [
-          "avarigon"
+          "aravagar",
+          "audreyya",
+          "avarigon",
+          "bquo",
+          "pnimmaga",
+          "rparthip",
+          "srianeek"
         ]
       },
       "admins": {
@@ -78,15 +218,177 @@
       ],
       "create_oidc_clients": false
     },
+    "brieflyai": {
+      "name": "Briefly AI",
+      "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
+      "members": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "repos": [
+        "ai-newsletter"
+      ],
+      "create_oidc_clients": false,
+      "website": "",
+      "server": ""
+    },
+    "cmu-blockparty": {
+      "name": "BlockParty",
+      "description": "A way to track your meal block usage progress. This would help\n                you track if you are behind or ahead of schedule, and you can eat\n                accordingly. Integration with SIO will allow users to check past\n                orders + receipts.",
+      "members": {
+        "github_usernames": [
+          "csongfm",
+          "eitankrajewski",
+          "henhen1235",
+          "justinwu80",
+          "klz037",
+          "rayank7674",
+          "s520y",
+          "sdavidi-ai"
+        ],
+        "andrew_ids": [
+          "cesong",
+          "ekrajews",
+          "hhxu",
+          "jzwu",
+          "kelseyli",
+          "rkha",
+          "sdavidi",
+          "seany2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "henhen1235"
+        ],
+        "andrew_ids": [
+          "hhxu"
+        ]
+      },
+      "repos": [
+        "BlockParty"
+      ],
+      "create_oidc_clients": true
+    },
+    "cmu-bulletin": {
+      "name": "CMU Bulletin",
+      "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
+      "members": {
+        "github_usernames": [
+          "angely32",
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "angely",
+          "ziweiche"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "ziweiche"
+        ]
+      },
+      "repos": [
+        "CMU-Bulletin"
+      ],
+      "create_oidc_clients": true,
+      "website": "cmubulletin.com",
+      "server": "your-team-server.com"
+    },
+    "cmu-research": {
+      "name": "CMU Research",
+      "description": "CMU Research Team",
+      "members": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "repos": [
+        "ResearchStarter"
+      ],
+      "create_oidc_clients": false
+    },
+    "cmu-scottytasks": {
+      "name": "CMU-ScottyTasks",
+      "description": "A mobile gamified task/habit tracker with a leaderboard system and a personalized, upgradable Scotty dog avatar.\"\n",
+      "members": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "repos": [
+        "CMU-ScottyTasks"
+      ],
+      "create_oidc_clients": false
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "a-varigonda",
+          "cahove",
+          "dishon949",
+          "hanabenko",
+          "henhen1235",
+          "jahuang24",
+          "nicholascui225",
+          "ziwei-che"
         ],
         "andrew_ids": [
-          "yh4"
+          "avarigon",
+          "chove",
+          "hbenko",
+          "hhxu",
+          "jarretth",
+          "ncui2",
+          "ndishon",
+          "semathew",
+          "yh4",
+          "ziweiche"
         ]
       },
       "admins": {
@@ -267,24 +569,6 @@
       "create_oidc_clients": true,
       "website": "wiki.scottylabs.org",
       "server": "api.wiki.scottylabs.org"
-    },
-    "cmuresearch": {
-      "name": "CMU Research",
-      "description": "The CMU Research team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true
     },
     "cmuservice": {
       "name": "CMU Service",
