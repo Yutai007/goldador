@@ -4,12 +4,12 @@ website = ""
 server = ""
 
 [[repos]]
-name = "ScottyDelivery"
+name = "Scotty-Delivery"
 description = "Scotty Delivery is a on-campus food delivery service, founded by students, operated by students, and serving students, faculty, and staff of our university."
 
 [[membership]]
 timeframe = "2026-2027"
-leads = ["Yutai007", "ryanwong05", "veriivy", "k3t6hup", "ju1iaw"]
+leads = ["Yutai007", "ryanwong05", "veriivy", "k3t6hup", "ju1iaw", "stingray8", "carolyne-chiang"]
 
 [[membership.members]]
 github-username = "Yutai007"
@@ -61,3 +61,18 @@ github-username = "riishp"
 
 [[membership.members]]
 github-username = "carolyne-chiang"
+
+[[membership.members]]
+github-username = "vivianliyuwei"
+
+[[membership.members]]
+github-username = "kaylin-h"
+
+[[membership.members]]
+github-username = "mialin8"
+
+[[membership.members]]
+github-username = "lyw127"
+
+[[membership.members]]
+github-username = "bwang26"
